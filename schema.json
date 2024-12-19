@@ -1,0 +1,8 @@
+{
+    "name": "Flights",
+    "tuples_limit": 1000,
+    "structure": {
+        "Airplanes": ["Airbus", "Boeing", "Bombardier"],
+        "Cities": ["Small", "Middle", "Big"]
+    }
+}
